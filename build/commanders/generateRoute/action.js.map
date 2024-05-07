@@ -1,0 +1,1 @@
+{"version":3,"file":"action.js","sourceRoot":"","sources":["../../../src/commanders/generateRoute/action.ts"],"names":[],"mappings":";;AAAA,yCAAmE;AACnE,uCAAoD;AACpD,mBAAyB,OAAc;IACtC,IAAM,UAAU,GAAI,IAAA,6BAAgB,EAAC,aAAa,EAAC,IAAA,eAAO,EAAC,IAAA,sBAAc,EAAC,WAAW,CAAC,CAAC,EAAC,yBAAY,CAAC,MAAM,CAAC,CAAA;IAC5G,OAAO,CAAC,GAAG,CAAC,UAAU,EAAC,YAAY,CAAC,CAAA;AACrC,CAAC;AAHD,4BAGC"}
