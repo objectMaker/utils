@@ -10,5 +10,3 @@ export const bootStrap = ()=>{
   regisCmd(program)
   program.parse();
 }
-
-bootStrap();

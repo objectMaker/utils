@@ -13,5 +13,4 @@ var bootStrap = function () {
     program.parse();
 };
 exports.bootStrap = bootStrap;
-(0, exports.bootStrap)();
 //# sourceMappingURL=index.js.map
